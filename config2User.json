@@ -1,0 +1,37 @@
+﻿{
+  "myuser": {
+
+      "name": "Ann",
+      "email": "fixiik@gmail.com",
+      "gender": "girl"
+  },
+  "Users": {
+
+    "1": {
+      "name": "Victoria",
+      "email": "juionri@gmail.com",
+      "gender": "girl"
+    },
+    "2": {
+      "name": "Alex",
+      "email": "huionsg@gmail.com",
+      "gender": "boy"
+    },
+    "3": {
+      "name": "Vasiliy",
+      "email": "kiooojhf@gmail.com",
+      "gender": "boy"
+    },
+    "4": {
+      "name": "Taras",
+      "email": "seeiirprr@gmail.com",
+      "gender": "boy"
+    },
+
+    "5": {
+      "name": "Pavlo",
+      "email": "yfyfjdidid@gmail.com",
+      "gender": "boy"
+    }
+  }
+}
